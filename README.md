@@ -42,19 +42,20 @@ My main areas of interest are:
 
 ### eSETUP | Enterprise Project Management System
 
+**Full-Stack Developer Intern | Department of Science & Technology Regional Office 1**
+
 **React · Node.js · Express.js · PostgreSQL**
 
-Enterprise project management system developed for the **Department of Science & Technology Regional Office 1** to centralize MSME project records and related workflows.
+Enterprise project management system developed during my internship at **DOST Regional Office 1** to centralize MSME project records and related workflows.
 
 - Served as the primary full-stack developer
 - Migrated **300+ MSME project records** from spreadsheet-based tracking
 - Built project records, document workflows, dashboards, reports, user administration, and database services
 - Implemented **RBAC, validation, rate limiting, request throttling, audit logging, and OWASP-aligned security practices**
 
-> **Access:** Developed for DOST Regional Office 1. Source code is private.
+> **Source code:** Private institutional repository.
 
 [View Project](https://paulquimpo-portfolio.vercel.app/projects/esetup)
-
 ---
 
 ### VetBot | AI Veterinary-Care Platform
