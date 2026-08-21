@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Paul Emmanuelle Quimpo
+# Hi, I'm Paul Quimpo
 
 ### Software Engineer | Full-Stack · AI · Cybersecurity
 
@@ -15,9 +15,9 @@ I build full-stack applications and work with AI, backend systems, databases, an
 
 ## About Me
 
-I'm a Software Engineer and Computer Science graduate from the Philippines.
+I'm a **Software Engineer and Computer Science graduate from the Philippines**.
 
-I work across full-stack development, backend systems, databases, AI, and application security. My experience includes web and mobile applications, REST APIs, database-driven systems, RAG applications, and machine learning projects.
+I work across full-stack development, backend systems, databases, AI, and application security. My experience includes enterprise software, web and mobile applications, REST APIs, database-driven systems, RAG applications, and machine learning projects.
 
 My main areas of interest are:
 
@@ -29,8 +29,8 @@ My main areas of interest are:
 
 ## Highlights
 
-- **Best in CS Thesis Research** for VetBot, my undergraduate thesis project
-- Served as the primary full-stack developer for an enterprise project management system adopted by **DOST Regional Office 1**
+- **Best in CS Thesis Research** for VetBot
+- Served as the primary full-stack developer for **eSETUP**, an enterprise project management system adopted by DOST Regional Office 1
 - Migrated **300+ MSME project records** from spreadsheet-based tracking into a centralized system
 - VetBot achieved **88.9% source grounding** and **90.6% response relevance** across 99 validated queries
 - LeukoScan achieved **87.13% test accuracy** on 2,487 held-out white blood cell images
@@ -40,6 +40,21 @@ My main areas of interest are:
 
 ## Featured Projects
 
+### eSETUP | Enterprise Project Management System
+
+**React · Node.js · Express.js · PostgreSQL**
+
+Enterprise project management system developed for the **Department of Science & Technology Regional Office 1** to centralize MSME project records and related workflows.
+
+- Served as the primary full-stack developer
+- Migrated **300+ MSME project records** from spreadsheet-based tracking
+- Built project records, document workflows, dashboards, reports, user administration, and database services
+- Implemented **RBAC, validation, rate limiting, request throttling, audit logging, and OWASP-aligned security practices**
+
+> Developed for DOST Regional Office 1. Source code is private.
+
+---
+
 ### VetBot | AI Veterinary-Care Platform
 
 **Flutter · Django · PostgreSQL · Gemini · ChromaDB · RAG**
@@ -47,7 +62,7 @@ My main areas of interest are:
 VetBot is an AI-assisted veterinary-care platform for pet owners and veterinarians. It provides source-grounded pet-health guidance and includes pet profiles, clinic discovery, appointments, telemedicine, and structured triage reports.
 
 - **Best in CS Thesis Research**
-- **88.9% source grounding** and **90.6% response relevance**
+- Achieved **88.9% source grounding** and **90.6% response relevance** across 99 validated queries
 - Built the RAG pipeline using Gemini and ChromaDB
 
 [View Project](https://paulquimpo-portfolio.vercel.app/projects/vetbot)
@@ -107,14 +122,10 @@ A student information system built with ASP.NET Core Razor Pages and PostgreSQL.
 
 **Department of Science & Technology (DOST), Regional Office 1 | June 2025 to August 2025**
 
-Worked as the primary full-stack developer for **eSETUP**, an enterprise project management system adopted by DOST Region 1.
-
-- Built the core application using **React, Express.js, Node.js, and PostgreSQL**
-- Migrated **300+ MSME project records** from spreadsheet-based tracking into the system
-- Developed project records, document workflows, dashboards, reports, user administration, and database services
-- Implemented **RBAC, validation, rate limiting, request throttling, audit logging, and OWASP-aligned security practices**
-
-> The source code is private because the system was developed for DOST Regional Office 1.
+- Served as the primary full-stack developer for **eSETUP**
+- Built the core application using React, Express.js, Node.js, and PostgreSQL
+- Developed project workflows, dashboards, reports, user administration, and database services
+- Implemented access control, validation, application security controls, and audit logging
 
 ---
 
@@ -204,8 +215,9 @@ Worked as the primary full-stack developer for **eSETUP**, an enterprise project
 
 ## Contact
 
-I'm open to software engineering roles, freelance projects, and technical collaborations.
+Open to software engineering roles, freelance projects, and technical collaborations.
 
 [![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paulquimpo-portfolio.vercel.app/)
 [![Visit LinkedIn](https://img.shields.io/badge/Visit_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-quimpo)
-[![Email](https://img.shields.io/badge/paulemmanuellequimpo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulemmanuellequimpo@gmail.com)
+
+**Email:** [paulemmanuellequimpo@gmail.com](mailto:paulemmanuellequimpo@gmail.com)
