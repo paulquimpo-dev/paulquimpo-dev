@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <div align="center">
 
 # Hi, I'm Paul Quimpo
@@ -8,6 +10,24 @@ I build full-stack applications and work with AI, backend systems, databases, an
 
 [![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paulquimpo-portfolio.vercel.app/)
 [![Visit LinkedIn](https://img.shields.io/badge/Visit_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-quimpo)
+
+</div>
+
+---
+
+## Quick Navigation
+
+<div align="center">
+
+[About Me](#about-me) ·
+[Highlights](#highlights) ·
+[Projects](#featured-projects) ·
+[Experience](#experience) ·
+[Tech Stack](#tech-stack) ·
+[Education](#education) ·
+[Certifications](#certifications--training) ·
+[Interests](#areas-of-interest) ·
+[Contact](#contact)
 
 </div>
 
@@ -125,6 +145,12 @@ A student information system built with ASP.NET Core Razor Pages and PostgreSQL.
 
 ---
 
+<div align="right">
+
+[Back to top](#top)
+
+</div>
+
 ## Experience
 
 ### IT Officer & Adjunct Software Development Instructor
@@ -146,6 +172,12 @@ A student information system built with ASP.NET Core Razor Pages and PostgreSQL.
 - Implemented access control, validation, rate limiting, request throttling, audit logging, and OWASP-aligned security practices
 
 ---
+
+<div align="right">
+
+[Back to top](#top)
+
+</div>
 
 ## Tech Stack
 
@@ -202,6 +234,12 @@ A student information system built with ASP.NET Core Razor Pages and PostgreSQL.
 
 ---
 
+<div align="right">
+
+[Back to top](#top)
+
+</div>
+
 ## Education
 
 ### Bachelor of Science in Computer Science
@@ -231,6 +269,12 @@ A student information system built with ASP.NET Core Razor Pages and PostgreSQL.
 
 ---
 
+<div align="right">
+
+[Back to top](#top)
+
+</div>
+
 ## Contact
 
 Open to software engineering roles, freelance projects, and technical collaborations.
@@ -239,3 +283,11 @@ Open to software engineering roles, freelance projects, and technical collaborat
 [![Visit LinkedIn](https://img.shields.io/badge/Visit_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-quimpo)
 
 **Email:** [paulemmanuellequimpo@gmail.com](mailto:paulemmanuellequimpo@gmail.com)
+
+---
+
+<div align="right">
+
+[Back to top](#top)
+
+</div>
