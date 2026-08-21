@@ -67,6 +67,8 @@ VetBot is an AI-assisted veterinary-care platform for pet owners and veterinaria
 - Achieved **88.9% source grounding** and **90.6% response relevance** across 99 validated queries
 - Built the RAG pipeline using Gemini and ChromaDB
 
+> Developed for undergradaute thesis. Source code is private.
+
 [View Project](https://paulquimpo-portfolio.vercel.app/projects/vetbot)
 
 ---
