@@ -56,9 +56,12 @@ Enterprise project management system developed during my internship at **DOST Re
 > **Source code:** Private institutional repository.
 
 [View Project](https://paulquimpo-portfolio.vercel.app/projects/esetup)
+
 ---
 
 ### VetBot | AI Veterinary-Care Platform
+
+**Lead Software & AI Engineer | Undergraduate Thesis**
 
 **Flutter · Django · PostgreSQL · Gemini · ChromaDB · RAG**
 
@@ -68,13 +71,15 @@ VetBot is an AI-assisted veterinary-care platform for pet owners and veterinaria
 - Achieved **88.9% source grounding** and **90.6% response relevance** across 99 validated queries
 - Built the RAG pipeline using Gemini and ChromaDB
 
-> **Project:** Undergraduate thesis. Source code is private.
+> **Source code:** Private thesis repository.
 
 [View Project](https://paulquimpo-portfolio.vercel.app/projects/vetbot)
 
 ---
 
 ### LeukoScan | White Blood Cell Classifier
+
+**AI & Full-Stack Engineer**
 
 **Python · TensorFlow · EfficientNetB0 · ONNX · React · FastAPI**
 
@@ -89,6 +94,8 @@ LeukoScan is an open-source application that classifies microscope images into f
 ---
 
 ### Client Project Tracker
+
+**Full-Stack Developer**
 
 **React · TypeScript · Django · PostgreSQL**
 
@@ -105,6 +112,8 @@ A full-stack application for managing client projects by delivery date, priority
 ---
 
 ### SimpleSIS
+
+**Full-Stack Developer**
 
 **C# · ASP.NET Core · Entity Framework Core · PostgreSQL**
 
@@ -134,7 +143,7 @@ A student information system built with ASP.NET Core Razor Pages and PostgreSQL.
 - Served as the primary full-stack developer for **eSETUP**
 - Built the core application using React, Express.js, Node.js, and PostgreSQL
 - Developed project workflows, dashboards, reports, user administration, and database services
-- Implemented access control, validation, application security controls, and audit logging
+- Implemented access control, validation, rate limiting, request throttling, audit logging, and OWASP-aligned security practices
 
 ---
 
