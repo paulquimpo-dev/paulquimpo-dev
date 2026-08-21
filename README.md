@@ -6,7 +6,7 @@
 
 ### Software Engineer | Full-Stack · AI · Cybersecurity
 
-I build full-stack applications and work with AI, backend systems, databases, and application security.
+I build systems. I secure systems. I enhance systems with AI.
 
 [![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paulquimpo-portfolio.vercel.app/)
 [![Visit LinkedIn](https://img.shields.io/badge/Visit_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-quimpo)
