@@ -51,7 +51,7 @@ Enterprise project management system developed for the **Department of Science &
 - Built project records, document workflows, dashboards, reports, user administration, and database services
 - Implemented **RBAC, validation, rate limiting, request throttling, audit logging, and OWASP-aligned security practices**
 
-> Developed for DOST Regional Office 1. Source code is private.
+> **Access:** Developed for DOST Regional Office 1. Source code is private.
 
 [View Project](https://paulquimpo-portfolio.vercel.app/projects/esetup)
 
@@ -67,7 +67,7 @@ VetBot is an AI-assisted veterinary-care platform for pet owners and veterinaria
 - Achieved **88.9% source grounding** and **90.6% response relevance** across 99 validated queries
 - Built the RAG pipeline using Gemini and ChromaDB
 
-> Developed for undergradaute thesis. Source code is private.
+> **Project:** Undergraduate thesis. Source code is private.
 
 [View Project](https://paulquimpo-portfolio.vercel.app/projects/vetbot)
 
@@ -97,6 +97,8 @@ A full-stack application for managing client projects by delivery date, priority
 - Search, filtering, sorting, and input validation
 - Automated tests for backend APIs, integrations, frontend components, and services
 
+> **Status:** Active development. No live demo is currently available.
+
 [Source Code](https://github.com/paulquimpo-dev/ClientProjectTracker)
 
 ---
@@ -106,6 +108,8 @@ A full-stack application for managing client projects by delivery date, priority
 **C# · ASP.NET Core · Entity Framework Core · PostgreSQL**
 
 A student information system built with ASP.NET Core Razor Pages and PostgreSQL. It includes student record creation, viewing, editing, deletion, input validation, and relational data persistence.
+
+> **Status:** Active development. No live demo is currently available.
 
 [Source Code](https://github.com/paulquimpo-dev/simple-sis)
 
