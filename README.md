@@ -53,6 +53,8 @@ Enterprise project management system developed for the **Department of Science &
 
 > Developed for DOST Regional Office 1. Source code is private.
 
+[View Project](https://paulquimpo-portfolio.vercel.app/projects/esetup)
+
 ---
 
 ### VetBot | AI Veterinary-Care Platform
