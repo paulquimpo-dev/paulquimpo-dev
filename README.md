@@ -37,18 +37,19 @@ I build systems. I secure systems. I enhance systems with AI.
 
 I'm a **Software Engineer and Computer Science graduate from the Philippines**.
 
-I work across full-stack development, backend systems, databases, AI, and application security. My experience includes enterprise software, web and mobile applications, REST APIs, database-driven systems, RAG applications, and machine learning projects.
+I work across full-stack development, backend systems, databases, AI, and application security. My experience includes enterprise software, web and mobile applications, REST APIs, database-driven systems, RAG applications, machine learning projects, and secure software development.
 
 My main areas of interest are:
 
 - **Software Engineering:** Full-stack development, backend systems, APIs, databases, and software architecture
 - **Artificial Intelligence:** LLM applications, Retrieval-Augmented Generation (RAG), computer vision, and machine learning
-- **Cybersecurity:** Application security, secure coding, OWASP practices, vulnerability assessment, and network security
+- **Cybersecurity:** Application security, secure coding, OWASP practices, vulnerability assessment, network security, and defensive security
 
 ---
 
 ## Highlights
 
+- **NetOps Certified Engineer (NTO-101)** and **Certified Cybersecurity Professional (CCP)**
 - **Best in CS Thesis Research** for VetBot
 - Served as the primary full-stack developer for **eSETUP**, an enterprise project management system adopted by DOST Regional Office 1
 - Migrated **300+ MSME project records** from spreadsheet-based tracking into a centralized system
@@ -220,9 +221,9 @@ A student information system built with ASP.NET Core Razor Pages and PostgreSQL.
 
 `TensorFlow` · `Keras` · `EfficientNet` · `ONNX` · `LLMs` · `RAG` · `LangChain` · `ChromaDB`
 
-### Cybersecurity
+### Cybersecurity & Networking
 
-`OWASP Top 10` · `Secure Coding` · `RBAC` · `Authentication & Authorization` · `Vulnerability Assessment` · `Nmap` · `Burp Suite` · `Wireshark`
+`OWASP Top 10` · `Secure Coding` · `RBAC` · `Authentication & Authorization` · `Vulnerability Assessment` · `Network Security` · `Nmap` · `Burp Suite` · `Wireshark`
 
 ### Tools & Infrastructure
 
@@ -252,11 +253,63 @@ A student information system built with ASP.NET Core Razor Pages and PostgreSQL.
 
 ## Certifications & Training
 
-- **PhilNITS IT Passport Certified**, December 2024
-- **TryHackMe Cyber Security 101**
-- **TryHackMe Pre Security**
+### Professional Certifications
+
+#### NetOps Certified Engineer (NTO-101)
+
+**Appkademiya | August 2026**
+
+Validates knowledge of modern network engineering across TCP/IP, routing, network security, cloud and hybrid networking, network automation, and software-defined networking.
+
+**Credential ID:** `CERT-NETOPS-CERTIFIED-ENGINEER-NTO101-20260823-39F506F3D103`
+
+[Verify Credential](https://www.appkademiya.online/verify/CERT-NETOPS-CERTIFIED-ENGINEER-NTO101-20260823-39F506F3D103)
+
+#### Certified Cybersecurity Professional (CCP)
+
+**Appkademiya | August 2026**
+
+Validates foundational and tactical cybersecurity knowledge in defending enterprise networks, including security risk identification, security controls, network monitoring, indicators of compromise, incident response, and Blue Team security operations.
+
+**Credential ID:** `CERT-CCP-CYBERSECURITY-PROFESSIONAL-20260823-60A73C225EEE`
+
+[Verify Credential](https://www.appkademiya.online/verify/CERT-CCP-CYBERSECURITY-PROFESSIONAL-20260823-60A73C225EEE)
+
+#### PhilNITS IT Passport
+
+**PhilNITS | December 2024**
+
+National certification in foundational information-technology knowledge.
+
+### Cybersecurity Training
+
+#### Cyber Security 101
+
+**TryHackMe | July 2026 to July 2029**
+
+Completed hands-on cybersecurity training covering networking and cryptography fundamentals, Linux and Windows security, offensive and defensive security concepts, web application security, exploitation fundamentals, and security operations.
+
+**Credential ID:** `THM-GXPKKSYP01`
+
+[Verify Credential](https://tryhackme.com/certificate/THM-GXPKKSYP01)
+
+#### Pre Security
+
+**TryHackMe | July 2026 to July 2029**
+
+Completed foundational cybersecurity training covering computer fundamentals, networking, web technologies, operating systems, and introductory security concepts, establishing the technical foundation for further cybersecurity training.
+
+**Credential ID:** `THM-O1UEHX4TNQ`
+
+[Verify Credential](https://tryhackme.com/certificate/THM-O1UEHX4TNQ)
 
 ---
+
+<div align="right">
+
+[Back to top](#top)
+
+</div>
 
 ## Areas of Interest
 
@@ -266,14 +319,9 @@ A student information system built with ASP.NET Core Razor Pages and PostgreSQL.
 - Applied AI and AI Engineering
 - LLM and RAG Applications
 - Cybersecurity and Application Security
+- Network Engineering and Security
 
 ---
-
-<div align="right">
-
-[Back to top](#top)
-
-</div>
 
 ## Contact
 
