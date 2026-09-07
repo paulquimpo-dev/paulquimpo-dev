@@ -114,6 +114,42 @@ LeukoScan is an open-source application that classifies microscope images into f
 
 ---
 
+### Scrapp
+
+**Full-Stack Developer**
+
+**Python · Web Scraping Technologies**
+
+A specialized data extraction and web scraping tool designed to gather, parse, and process structured information efficiently.
+
+[Source Code](https://github.com/paulquimpo-dev/Scrapp)
+
+---
+
+### Paul Pokedex API
+
+**Backend Developer**
+
+**Node.js · Express.js / Python · REST APIs**
+
+A clean, structured REST API wrapper/service built to query and deliver comprehensive Pokémon data, stats, and attributes.
+
+[Source Code](https://github.com/paulquimpo-dev/paul-pokedex-api)
+
+---
+
+### Simple Weather Forecast
+
+**Full-Stack Developer**
+
+**JavaScript / Python · Weather API Integration**
+
+A responsive weather application that fetches real-time meteorological data and displays forecasts cleanly to users.
+
+[Source Code](https://github.com/paulquimpo-dev/simple-weather-forecast)
+
+---
+
 ### Client Project Tracker
 
 **Full-Stack Developer**
