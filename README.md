@@ -41,7 +41,7 @@ I work across full-stack development, backend systems, databases, AI, and applic
 
 My main areas of interest are:
 
-- **Software Engineering:** Full-stack development, backend systems, APIs, databases, and software architecture
+- **Software Engineering:** Full-Stack development, backend systems, APIs, databases, and software architecture
 - **Artificial Intelligence:** LLM applications, Retrieval-Augmented Generation (RAG), computer vision, and machine learning
 - **Cybersecurity:** Application security, secure coding, OWASP practices, vulnerability assessment, network security, and defensive security
 
@@ -67,12 +67,7 @@ My main areas of interest are:
 
 **React · Node.js · Express.js · PostgreSQL**
 
-Enterprise project management system developed during my internship at **DOST Regional Office 1** to centralize MSME project records and related workflows.
-
-- Served as the primary full-stack developer
-- Migrated **300+ MSME project records** from spreadsheet-based tracking
-- Built project records, document workflows, dashboards, reports, user administration, and database services
-- Implemented **RBAC, validation, rate limiting, request throttling, audit logging, and OWASP-aligned security practices**
+Enterprise project management system centralizing MSME project records and document workflows, featuring RBAC, input validation, audit logging, and OWASP-aligned security practices.
 
 > **Source code:** Private institutional repository.
 
@@ -86,11 +81,7 @@ Enterprise project management system developed during my internship at **DOST Re
 
 **Flutter · Django · PostgreSQL · Gemini · ChromaDB · RAG**
 
-VetBot is an AI-assisted veterinary-care platform for pet owners and veterinarians. It provides source-grounded pet-health guidance and includes pet profiles, clinic discovery, appointments, telemedicine, and structured triage reports.
-
-- **Best in CS Thesis Research**
-- Achieved **88.9% source grounding** and **90.6% response relevance** across 99 validated queries
-- Built the RAG pipeline using Gemini and ChromaDB
+AI-assisted veterinary-care platform providing source-grounded pet-health guidance, appointment booking, telemedicine, and structured triage reports via a custom RAG pipeline.
 
 > **Source code:** Private thesis repository.
 
@@ -104,13 +95,21 @@ VetBot is an AI-assisted veterinary-care platform for pet owners and veterinaria
 
 **Python · TensorFlow · EfficientNetB0 · ONNX · React · FastAPI**
 
-LeukoScan is an open-source application that classifies microscope images into four white blood cell categories.
-
-- Achieved **87.13% test accuracy** on 2,487 held-out images
-- Supports browser-based ONNX inference and FastAPI inference
-- Includes public source code, evaluation results, and a live demo
+Open-source diagnostic application that classifies microscope images into four white blood cell categories using deep learning models and browser-based ONNX inference.
 
 [Live Demo](https://leukoscan.vercel.app/) · [Source Code](https://github.com/paulquimpo-dev/LeukoScan)
+
+---
+
+### Scrapp — Junkshop Directory App
+
+**Mobile Developer**
+
+**Flutter · Dart · CartoDB / OpenStreetMap**
+
+Mobile directory application for locating junkshops and recycling centers in La Union, featuring offline-first local data search, material price comparisons, and external GPS mapping handoffs.
+
+[Source Code](https://github.com/paulquimpo-dev/Scrapp)
 
 ---
 
@@ -120,40 +119,19 @@ LeukoScan is an open-source application that classifies microscope images into f
 
 **HTML · CSS · JavaScript · PokéAPI · Web Audio API**
 
-A retro-inspired, fully functional digital Pokédex web application built with HTML, CSS, and JavaScript. It connects directly to the Pokédex API (PokéAPI) to pull live Pokémon data from all generations, high-resolution sprites, shiny variant toggles, stats, evolution chains, and authentic cry audio effects.
-
-- **Authentic Handheld Aesthetic:** Designed using a custom CSS layout mimicking a classic retro clamshell device, complete with indicator lights, a lens scanner, and a CRT-styled monitor screen.
-- **Live National PokéAPI Integration:** Search for any Pokémon across all generations by name or National Dex ID number in real-time.
-- **Shiny Sprite Toggle:** Dynamically flip between regular sprites and rare shiny color variants using an integrated hardware toggle switch.
-- **Visual Stat Bars & Specs:** Displays segmented progress bars for core attributes (HP, Attack, Defense, Speed) alongside exact Height and Weight metrics.
-- **Interactive Evolution Path:** Features a prominent, large-scale evolution chain module where users can click any evolution stage to instantly scan that Pokémon.
-- **Color-Coded Type Badges:** Dynamically styled type pills (Fire, Water, Grass, Electric, etc.) that make data visualization instantly pop.
-- **Nostalgic Audio Cues:** Combines custom Web Audio API button beeps with official Pokémon cry sound effects.
-- **Custom Pokéball Loader:** Animated spinning Pokéball indicator active during data fetching states.
+Retro-inspired digital Pokédex replicating a classic handheld clamshell console, featuring live multi-generation PokéAPI queries, shiny variant toggles, stat visualizations, and audio cues.
 
 [Source Code](https://github.com/paulquimpo-dev/paul-pokedex-api)
 
 ---
 
-### Scrapp
-
-**Full-Stack Developer**
-
-**Python · Web Scraping Technologies**
-
-A specialized data extraction and web scraping tool designed to gather, parse, and process structured information efficiently.
-
-[Source Code](https://github.com/paulquimpo-dev/Scrapp)
-
----
-
 ### Simple Weather Forecast
 
-**Full-Stack Developer**
+**Frontend / Full-Stack Developer**
 
-**JavaScript / Python · Weather API Integration**
+**HTML · CSS · JavaScript · Tailwind CSS · Open-Meteo API**
 
-A responsive weather application that fetches real-time meteorological data and displays forecasts cleanly to users.
+Responsive glassmorphism weather application featuring automated GPS location detection with IP fallback, real-time meteorological metrics, and dynamic condition mapping.
 
 [Source Code](https://github.com/paulquimpo-dev/simple-weather-forecast)
 
@@ -165,11 +143,7 @@ A responsive weather application that fetches real-time meteorological data and 
 
 **React · TypeScript · Django · PostgreSQL**
 
-A full-stack application for managing client projects by delivery date, priority, and status.
-
-- Session authentication with HttpOnly cookies, CSRF protection, and login throttling
-- Search, filtering, sorting, and input validation
-- Automated tests for backend APIs, integrations, frontend components, and services
+Full-stack dashboard for managing client delivery dates and project priorities, secured with session authentication, HttpOnly cookies, CSRF protection, and login throttling.
 
 > **Status:** Active development. No live demo is currently available.
 
@@ -183,7 +157,7 @@ A full-stack application for managing client projects by delivery date, priority
 
 **C# · ASP.NET Core · Entity Framework Core · PostgreSQL**
 
-A student information system built with ASP.NET Core Razor Pages and PostgreSQL. It includes student record creation, viewing, editing, deletion, input validation, and relational data persistence.
+Student information system built with ASP.NET Core Razor Pages supporting complete record management, strict input validation, and relational database persistence.
 
 > **Status:** Active development. No live demo is currently available.
 
