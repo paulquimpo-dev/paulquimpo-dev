@@ -114,6 +114,27 @@ LeukoScan is an open-source application that classifies microscope images into f
 
 ---
 
+### Paul's Pokédex
+
+**Frontend / Web Developer**
+
+**HTML · CSS · JavaScript · PokéAPI · Web Audio API**
+
+A retro-inspired, fully functional digital Pokédex web application built with HTML, CSS, and JavaScript. It connects directly to the Pokédex API (PokéAPI) to pull live Pokémon data from all generations, high-resolution sprites, shiny variant toggles, stats, evolution chains, and authentic cry audio effects.
+
+- **Authentic Handheld Aesthetic:** Designed using a custom CSS layout mimicking a classic retro clamshell device, complete with indicator lights, a lens scanner, and a CRT-styled monitor screen.
+- **Live National PokéAPI Integration:** Search for any Pokémon across all generations by name or National Dex ID number in real-time.
+- **Shiny Sprite Toggle:** Dynamically flip between regular sprites and rare shiny color variants using an integrated hardware toggle switch.
+- **Visual Stat Bars & Specs:** Displays segmented progress bars for core attributes (HP, Attack, Defense, Speed) alongside exact Height and Weight metrics.
+- **Interactive Evolution Path:** Features a prominent, large-scale evolution chain module where users can click any evolution stage to instantly scan that Pokémon.
+- **Color-Coded Type Badges:** Dynamically styled type pills (Fire, Water, Grass, Electric, etc.) that make data visualization instantly pop.
+- **Nostalgic Audio Cues:** Combines custom Web Audio API button beeps with official Pokémon cry sound effects.
+- **Custom Pokéball Loader:** Animated spinning Pokéball indicator active during data fetching states.
+
+[Source Code](https://github.com/paulquimpo-dev/paul-pokedex-api)
+
+---
+
 ### Scrapp
 
 **Full-Stack Developer**
@@ -123,18 +144,6 @@ LeukoScan is an open-source application that classifies microscope images into f
 A specialized data extraction and web scraping tool designed to gather, parse, and process structured information efficiently.
 
 [Source Code](https://github.com/paulquimpo-dev/Scrapp)
-
----
-
-### Paul Pokedex API
-
-**Backend Developer**
-
-**Node.js · Express.js / Python · REST APIs**
-
-A clean, structured REST API wrapper/service built to query and deliver comprehensive Pokémon data, stats, and attributes.
-
-[Source Code](https://github.com/paulquimpo-dev/paul-pokedex-api)
 
 ---
 
